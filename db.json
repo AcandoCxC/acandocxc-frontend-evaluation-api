@@ -1,0 +1,235 @@
+{
+  "products": [
+    { 
+      "id": 237894892, 
+      "name": "V Bottom Top",
+      "colors": [
+        "Beige"
+      ],
+      "prices": [
+        {
+          "amount": 29.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 299,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 66,
+      "sizes": {
+        "S": 10,
+        "M": 24,
+        "L": 32
+      }
+    },
+    { 
+      "id": 237948229, 
+      "name": "Oversized Arms Top",
+      "colors": [
+        "Light Gray"
+      ],
+      "prices": [
+        {
+          "amount": 19.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 199,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 69, 
+      "sizes": {
+        "S": 13,
+        "M": 24,
+        "L": 32
+      }
+    },
+    { 
+      "id": 482903221, 
+      "name": "Puff Collar Sweater",
+      "colors": [
+        "Beige"
+      ],
+      "prices": [
+        {
+          "amount": 39.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 499,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 18,
+      "sizes": {
+        "S": 13,
+        "M": 3,
+        "L": 2
+      }
+    },
+    { 
+      "id": 904030235, 
+      "name": "Tilted Collar Top",
+      "colors": [
+        "Beige"
+      ],
+      "prices": [
+        {
+          "amount": 34.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 349,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 0,
+      "sizes": {
+        "S": 0,
+        "M": 0,
+        "L": 0
+      }
+    },
+    { 
+      "id": 694522312, 
+      "name": "Open Shoulders Top",
+      "colors": [
+        "Gray"
+      ],
+      "prices": [
+        {
+          "amount": 36.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 369,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 66,
+      "sizes": {
+        "S": 10,
+        "M": 24,
+        "L": 32
+      }
+    },
+    { 
+      "id": 892893231, 
+      "name": "Open Shoulders Sweater",
+      "colors": [
+        "Beige"
+      ],
+      "prices": [
+        {
+          "amount": 36.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 369,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 66,
+      "sizes": {
+        "S": 10,
+        "M": 24,
+        "L": 32
+      }
+    },
+    { 
+      "id": 848923922, 
+      "name": "Cross Chest Top",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "prices": [
+        {
+          "amount": 42.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 429,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 46,
+      "sizes": {
+        "S": 10,
+        "M": 24,
+        "L": 12
+      }
+    },
+    { 
+      "id": 832391231, 
+      "name": "Patterned Shoulders Blouse",
+      "colors": [
+        "Black"
+      ],
+      "prices": [
+        {
+          "amount": 22.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 229,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 46,
+      "sizes": {
+        "S": 10,
+        "M": 24,
+        "L": 12
+      }
+    },
+    { 
+      "id": 783481281, 
+      "name": "Courtain Blouse",
+      "colors": [
+        "Dark Sand"
+      ],
+      "prices": [
+        {
+          "amount": 62.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 629,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 46,
+      "sizes": {
+        "S": 10,
+        "M": 24,
+        "L": 12
+      }
+    },
+    { 
+      "id": 783481282, 
+      "name": "Courtain Blouse",
+      "colors": [
+        "Wine Red"
+      ],
+      "prices": [
+        {
+          "amount": 62.99,
+          "currency": "EUR"
+        },
+        {
+          "amount": 629,
+          "currency": "SEK"
+        }
+      ],
+      "quantity": 46,
+      "sizes": {
+        "S": 10,
+        "M": 24,
+        "L": 12
+      }
+    }
+  ]
+}

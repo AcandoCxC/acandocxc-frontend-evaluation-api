@@ -1,0 +1,13 @@
+const path = require('path')
+const jsonServer = require('json-server')
+const express = require('express')
+// const server = jsonServer.create()
+// const router = jsonServer.router(path.join(__dirname, 'db.json'))
+// const middlewares = jsonServer.defaults()
+
+const server = express()
+server.use('/images', express.static(path.join(__dirname, 'images')))
+server.use('/', jsonServer.router('db.json'))
+// server.use(middlewares)
+// server.use(router)
+server.listen(3636)
