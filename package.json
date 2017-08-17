@@ -12,6 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Erik Hellman <iam@erikhellman.com> (http://www.erikhellman.com/)",
+  "author": "Erik Hellman <erik.hellman@acando.com>",
   "license": "ISC"
 }
