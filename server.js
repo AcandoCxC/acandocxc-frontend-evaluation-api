@@ -1,11 +1,13 @@
 const path = require('path')
 const jsonServer = require('json-server')
+const cors = require('cors')
 const express = require('express')
 // const server = jsonServer.create()
 // const router = jsonServer.router(path.join(__dirname, 'db.json'))
 // const middlewares = jsonServer.defaults()
 
 const server = express()
+server.use(cors())
 server.use('/images', express.static(path.join(__dirname, 'images')))
 server.use('/', jsonServer.router('db.json'))
 // server.use(middlewares)
