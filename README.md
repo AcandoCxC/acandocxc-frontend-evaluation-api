@@ -6,12 +6,12 @@ Returns product data, images are royalty free photos from Pixabay.
 
 ## Installation
 
-`npm install --save-dev acandocxc-frontend-evaluation-api`
+`npm install --save-dev AcandoCxC/acandocxc-frontend-evaluation-api`
 
 Set up the script to run alongside your start script in your `package.json`.
 ```json
 "scripts": {
-  "start": "acandocxc-frontend-evaluation-api | webpack --watch"
+  "start": "products-api | webpack --watch"
 }
 ```
 
